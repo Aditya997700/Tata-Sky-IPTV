@@ -1,7 +1,5 @@
-# Tata Sky/ Play IPTV Script generator
-
-A script to generate the m3u playlist containing direct streamable file (.mpd or MPEG-DASH or DASH) 
-based on the channels that the user has subscribed on the Tata Sky portal.
+Tata playlist chahie to
+join telegram group --)https://t.me/+g67FogprcW1kZGM9
 
 # NOTE: Low maintainance, PRs will be accepted
 
